@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ogreencakeo-react-pj/static/css/main.edd9bd80.css",
-    "main.js": "/ogreencakeo-react-pj/static/js/main.f99e5f1f.js",
+    "main.js": "/ogreencakeo-react-pj/static/js/main.30ae7e65.js",
     "static/media/seasonal4-main.jpg": "/ogreencakeo-react-pj/static/media/seasonal4-main.c0acb4e38fc7628c27aa.jpg",
     "static/media/seasonal2-main.jpg": "/ogreencakeo-react-pj/static/media/seasonal2-main.d084079493c991c04a43.jpg",
     "static/media/seasonal3-main.jpg": "/ogreencakeo-react-pj/static/media/seasonal3-main.29886daee0b6efb6e05c.jpg",
@@ -21,10 +21,10 @@
     "static/media/seasonal2.png": "/ogreencakeo-react-pj/static/media/seasonal2.7325181a215499f298bd.png",
     "index.html": "/ogreencakeo-react-pj/index.html",
     "main.edd9bd80.css.map": "/ogreencakeo-react-pj/static/css/main.edd9bd80.css.map",
-    "main.f99e5f1f.js.map": "/ogreencakeo-react-pj/static/js/main.f99e5f1f.js.map"
+    "main.30ae7e65.js.map": "/ogreencakeo-react-pj/static/js/main.30ae7e65.js.map"
   },
   "entrypoints": [
     "static/css/main.edd9bd80.css",
-    "static/js/main.f99e5f1f.js"
+    "static/js/main.30ae7e65.js"
   ]
 }
